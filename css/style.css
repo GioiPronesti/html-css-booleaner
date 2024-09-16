@@ -23,6 +23,18 @@ h1{
   margin: 0px;
 }
 
-.line-height{
+.line-height {
   line-height: 5px;
+}
+
+.head-table{
+  background-color: rgb(34, 176, 227);
+}
+
+.blu-background{
+  background-color: rgba(89, 210, 246, 0.696);
+}
+
+.half-column{
+  width: 50%;
 }
